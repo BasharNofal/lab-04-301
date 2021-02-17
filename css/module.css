@@ -1,0 +1,117 @@
+/* /// MOBILE VIEW /// */
+
+#a {
+    background-color: moccasin;
+}
+
+#b {
+    background-color: silver;
+}
+
+#c {
+    background-color:tomato;
+}
+
+#d {
+    background-color: teal;
+}
+
+#e {
+    background-color: yellowgreen;
+}
+
+#f {
+    background-color: brown;
+}
+
+#g {
+    background-color: burlywood;
+}
+
+#h {
+    background-color: crimson;
+}
+
+footer {
+    background-color: darkgreen;
+}
+
+/* /// TABLET VIEW /// */
+
+@media (min-width: 768px){
+    #a {
+        background-color: brown;
+    }
+    
+    #b {
+        background-color: black;
+    }
+    
+    #c {
+        background-color:darkgreen;
+    }
+    
+    #d {
+        background-color: crimson;
+    }
+    
+    #e {
+        background-color: darkmagenta;
+    }
+    
+    #f {
+        background-color: darkgoldenrod;
+    }
+    
+    #g {
+        background-color: darkblue;
+    }
+    
+    #h {
+        background-color: cyan;
+    }
+    
+    footer {
+        background-color: darkgrey;
+    }   
+}
+
+/* /// DESKTOP VIEW /// */
+
+@media (min-width: 960px){
+    #a {
+        background-color: blue;
+    }
+    
+    #b {
+        background-color: chocolate;
+    }
+    
+    #c {
+        background-color:cornflowerblue;
+    }
+    
+    #d {
+        background-color: darkblue;
+    }
+    
+    #e {
+        background-color: crimson;
+    }
+    
+    #f {
+        background-color: darkolivegreen;
+    }
+    
+    #g {
+        background-color: darkred;
+    }
+    
+    #h {
+        background-color: dodgerblue;
+    }
+    
+    footer {
+        background-color: goldenrod;
+    }   
+}

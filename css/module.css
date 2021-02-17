@@ -32,7 +32,7 @@
     background-color: crimson;
 }
 
-#i {
+footer {
     background-color: darkgreen;
 }
 
@@ -71,7 +71,7 @@
         background-color: cyan;
     }
     
-    #i {
+    footer {
         background-color: darkgrey;
     }   
 }
@@ -111,7 +111,7 @@
         background-color: dodgerblue;
     }
     
-    #i {
+    footer {
         background-color: goldenrod;
     }   
 }
